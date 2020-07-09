@@ -1,6 +1,7 @@
 # GravidezDeMenoresEmSp
 
 GRAVIDEZ DE MENORES DE 18 ANOS NA CIDADE DE SÃO PAULO
+
 Analisamos dados de 2007-2018, de crianças nascidas de mães maiores de 18 anos e entre mães menores de 18 anos. Escolhemos esse assunto pela
 relevância do mesmo não só no quesito saúde pública, com tudo relativo às vidas do bebês e suas respectivas mães, mas também pra saber o que
 de fato está acontecendo entre as moças adolescentes desta cidade que faz refletir não só sua aura sócio/econômica, mas também comportamental.
