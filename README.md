@@ -25,7 +25,7 @@ Instalação
 Baixar e instalar o Python 3.8.x pelo site oficial
 Adicionar o python as variáveis de ambiente
 Clonar esse repositório
-git clone 
+git clone https://github.com/salvador-lopes/gravidezDeMenoresEmSp.git
 Entrar na pasta do repositório (pelo cmd ou terminal) e instalar as dependências
 pip install -r requirements.txt
 Executar o Jupyter Notebook
